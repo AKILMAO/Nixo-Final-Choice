@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nixofatass.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nixodown0000" x="0" y="0" width="613" height="682" frameX="0" frameY="0" frameWidth="624" frameHeight="682"/>
+	<SubTexture name="nixodown0001" x="0" y="0" width="613" height="682" frameX="0" frameY="0" frameWidth="624" frameHeight="682"/>
+	<SubTexture name="nixodown0002" x="613" y="0" width="623" height="682" frameX="0" frameY="0" frameWidth="624" frameHeight="682"/>
+	<SubTexture name="nixodown0003" x="613" y="0" width="623" height="682" frameX="0" frameY="0" frameWidth="624" frameHeight="682"/>
+	<SubTexture name="nixodown0004" x="1236" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0005" x="1860" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0006" x="2484" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0007" x="2484" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0008" x="1860" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0009" x="1860" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0010" x="2484" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0011" x="2484" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0012" x="1860" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0013" x="1860" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0014" x="2484" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0015" x="2484" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0016" x="1860" y="0" width="624" height="682"/>
+	<SubTexture name="nixodown0017" x="3108" y="0" width="623" height="682" frameX="0" frameY="0" frameWidth="624" frameHeight="682"/>
+	<SubTexture name="nixodown0018" x="3731" y="0" width="623" height="682" frameX="0" frameY="0" frameWidth="624" frameHeight="682"/>
+	<SubTexture name="nixodown0019" x="2484" y="0" width="624" height="682"/>
+	<SubTexture name="nixoidle0000" x="4354" y="0" width="646" height="719" frameX="0" frameY="-19" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0001" x="4354" y="0" width="646" height="719" frameX="0" frameY="-19" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0002" x="5000" y="0" width="626" height="725" frameX="0" frameY="-13" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0003" x="5000" y="0" width="626" height="725" frameX="0" frameY="-13" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0004" x="5626" y="0" width="623" height="724" frameX="0" frameY="-14" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0005" x="6249" y="0" width="623" height="724" frameX="0" frameY="-14" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0006" x="6872" y="0" width="623" height="728" frameX="0" frameY="-10" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0007" x="6872" y="0" width="623" height="728" frameX="0" frameY="-10" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0008" x="7495" y="0" width="623" height="738" frameX="0" frameY="0" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0009" x="0" y="738" width="595" height="738" frameX="-28" frameY="0" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0010" x="595" y="738" width="595" height="738" frameX="-28" frameY="0" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0011" x="595" y="738" width="595" height="738" frameX="-28" frameY="0" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0012" x="1190" y="738" width="595" height="738" frameX="-28" frameY="0" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0013" x="1190" y="738" width="595" height="738" frameX="-28" frameY="0" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0014" x="595" y="738" width="595" height="738" frameX="-28" frameY="0" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoidle0015" x="595" y="738" width="595" height="738" frameX="-28" frameY="0" frameWidth="646" frameHeight="738"/>
+	<SubTexture name="nixoleft0000" x="1785" y="738" width="587" height="752" frameX="-8" frameY="0" frameWidth="604" frameHeight="752"/>
+	<SubTexture name="nixoleft0001" x="1785" y="738" width="587" height="752" frameX="-8" frameY="0" frameWidth="604" frameHeight="752"/>
+	<SubTexture name="nixoleft0002" x="2372" y="738" width="604" height="741" frameX="0" frameY="-11" frameWidth="604" frameHeight="752"/>
+	<SubTexture name="nixoleft0003" x="2372" y="738" width="604" height="741" frameX="0" frameY="-11" frameWidth="604" frameHeight="752"/>
+	<SubTexture name="nixoleft0004" x="2976" y="738" width="604" height="741" frameX="0" frameY="-11" frameWidth="604" frameHeight="752"/>
+	<SubTexture name="nixoleft0005" x="3580" y="738" width="604" height="741" frameX="0" frameY="-11" frameWidth="604" frameHeight="752"/>
+	<SubTexture name="nixoleft0006" x="4184" y="738" width="604" height="741" frameX="0" frameY="-11" frameWidth="604" frameHeight="752"/>
+	<SubTexture name="nixoleft0007" x="4184" y="738" width="604" height="741" frameX="0" frameY="-11" frameWidth="604" frameHeight="752"/>
+	<SubTexture name="nixoleft0008" x="3580" y="738" width="604" height="741" frameX="0" frameY="-11" frameWidth="604" frameHeight="752"/>
+	<SubTexture name="nixoright0000" x="4788" y="738" width="625" height="755"/>
+	<SubTexture name="nixoright0001" x="4788" y="738" width="625" height="755"/>
+	<SubTexture name="nixoright0002" x="5413" y="738" width="616" height="741" frameX="-8" frameY="-14" frameWidth="625" frameHeight="755"/>
+	<SubTexture name="nixoright0003" x="5413" y="738" width="616" height="741" frameX="-8" frameY="-14" frameWidth="625" frameHeight="755"/>
+	<SubTexture name="nixoright0004" x="6029" y="738" width="616" height="741" frameX="-8" frameY="-14" frameWidth="625" frameHeight="755"/>
+	<SubTexture name="nixoright0005" x="6645" y="738" width="616" height="741" frameX="-8" frameY="-14" frameWidth="625" frameHeight="755"/>
+	<SubTexture name="nixoright0006" x="7261" y="738" width="616" height="741" frameX="-8" frameY="-14" frameWidth="625" frameHeight="755"/>
+	<SubTexture name="nixoright0007" x="7261" y="738" width="616" height="741" frameX="-8" frameY="-14" frameWidth="625" frameHeight="755"/>
+	<SubTexture name="nixoright0008" x="6645" y="738" width="616" height="741" frameX="-8" frameY="-14" frameWidth="625" frameHeight="755"/>
+	<SubTexture name="nixoright0009" x="6645" y="738" width="616" height="741" frameX="-8" frameY="-14" frameWidth="625" frameHeight="755"/>
+	<SubTexture name="nixoup0000" x="0" y="1493" width="584" height="776" frameX="-14" frameY="0" frameWidth="603" frameHeight="776"/>
+	<SubTexture name="nixoup0001" x="0" y="1493" width="584" height="776" frameX="-14" frameY="0" frameWidth="603" frameHeight="776"/>
+	<SubTexture name="nixoup0002" x="584" y="1493" width="603" height="753" frameX="0" frameY="-23" frameWidth="603" frameHeight="776"/>
+	<SubTexture name="nixoup0003" x="1187" y="1493" width="603" height="753" frameX="0" frameY="-23" frameWidth="603" frameHeight="776"/>
+	<SubTexture name="nixoup0004" x="1790" y="1493" width="603" height="753" frameX="0" frameY="-23" frameWidth="603" frameHeight="776"/>
+	<SubTexture name="nixoup0005" x="1790" y="1493" width="603" height="753" frameX="0" frameY="-23" frameWidth="603" frameHeight="776"/>
+	<SubTexture name="nixoup0006" x="1187" y="1493" width="603" height="753" frameX="0" frameY="-23" frameWidth="603" frameHeight="776"/>
+	<SubTexture name="nixoup0007" x="1187" y="1493" width="603" height="753" frameX="0" frameY="-23" frameWidth="603" frameHeight="776"/>
+	<SubTexture name="nixoup0008" x="1790" y="1493" width="603" height="753" frameX="0" frameY="-23" frameWidth="603" frameHeight="776"/>
+	<SubTexture name="nixoup0009" x="2393" y="1493" width="603" height="753" frameX="0" frameY="-23" frameWidth="603" frameHeight="776"/>
+</TextureAtlas>
